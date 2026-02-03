@@ -4,7 +4,7 @@ COPY
 👋 Luis de Olazabal Schettini
 ===========================================
 
-# Hi 👋 My name is Luis Fernando de Olazabal Schettini
+# 👋 Luis Fernando de Olazabal Schettini
 
 Ingeniero Informático | Senior Full Stack (.NET, MVC, Angular) | Arquitectura | IA aplicada
 
