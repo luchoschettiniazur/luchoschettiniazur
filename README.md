@@ -1,7 +1,7 @@
 PREVIEW
 MARKDOWN
 COPY
-Hi 👋 My name is Luis de Olazabal Schettini
+👋 Luis de Olazabal Schettini
 ===========================================
 
 # Hi 👋 My name is Luis Fernando de Olazabal Schettini
