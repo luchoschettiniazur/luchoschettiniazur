@@ -4,10 +4,6 @@ COPY
 Hi 👋 My name is Luis de Olazabal Schettini
 ===========================================
 
-* 🌍  I'm based in Madrid (Spain)
-* ✉️  You can contact me at [luchoschettini@gmail.com](mailto:luchoschettini@gmail.com)
-* 🚀  I'm currently working on [SOTEC CONSULTING](http://sotec.es)
-
 # Luis Fernando de Olazabal Schettini
 
 Ingeniero Informático | Senior Full Stack (.NET, MVC, Angular) | Arquitectura | IA aplicada
