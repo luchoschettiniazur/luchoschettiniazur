@@ -8,6 +8,36 @@ Hi 👋 My name is Luis de Olazabal Schettini
 * ✉️  You can contact me at [luchoschettini@gmail.com](mailto:luchoschettini@gmail.com)
 * 🚀  I'm currently working on [SOTEC CONSULTING](http://sotec.es)
 
+# Luis Fernando de Olazabal Schettini
+
+Ingeniero Informático | Senior Full Stack (.NET, MVC, Angular) | Arquitectura | IA aplicada
+
+## 👨‍💻 Sobre mí
+
+Ingeniero de Sistemas con más de 25 años de experiencia en desarrollo de software empresarial, especializado en .NET, ASP.NET MVC y Angular.
+
+Experto en arquitectura limpia, APIs REST escalables y optimización con SQL Server.
+
+Integro herramientas de IA (ChatGPT, Claude, Gemini, Claude Code) para mejorar la calidad del código, documentación y toma de decisiones técnicas.
+
+## 🛠️ Tecnologías
+
+- Backend: C#, .NET Core, ASP.NET MVC, Web API
+- Frontend: Angular, Blazor, JavaScript, TypeScript
+- Base de Datos: SQL Server, T-SQL
+- Arquitectura: Clean Architecture, CQRS
+- DevOps: Azure DevOps, CI/CD
+
+## 🤖 IA
+
+ChatGPT, Claude, Claude Code, Gemini
+
+## 📫 Contacto
+
+📧 luchoschettini@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/luis-olazabal
+
+
 ### Skills
 
 <p align="left">
