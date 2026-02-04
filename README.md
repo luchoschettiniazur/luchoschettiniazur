@@ -1,22 +1,23 @@
 # 👋 Luis Fernando de Olazabal Schettini
 
-Ingeniero Informático | Senior Full Stack (.NET, MVC, Angular) | Arquitectura | IA aplicada
+Ingeniero Informático | Senior Full Stack (.NET 6–10, MVC, Angular, Blazor) | Arquitectura Limpia | Hands-on & IA aplicada
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas con más de 25 años de experiencia en desarrollo de software empresarial, especializado en .NET, ASP.NET MVC y Angular.
+Ingeniero de Sistemas con más de 25 años de experiencia en desarrollo de software empresarial, especializado en .NET (6–10), ASP.NET MVC, Blazor y Angular.
 
-Experto en arquitectura limpia, APIs REST escalables y optimización con SQL Server.
+Experto en arquitectura limpia, APIs REST escalables y optimización de sistemas con SQL Server. Me enfoco en el desarrollo hands-on, refactorización y mejora de sistemas críticos.
 
-Integro herramientas de IA (ChatGPT, Claude, Gemini, Claude Code) para mejorar la calidad del código, documentación y toma de decisiones técnicas.
+Integro herramientas de IA (ChatGPT, Claude, Gemini, Claude Code) para mejorar la calidad del código, optimizar procesos, documentación y soporte en decisiones técnicas.
+
 
 ## 🛠️ Tecnologías
 
-- Backend: C#, .NET Core, ASP.NET MVC, Web API
-- Frontend: Angular, Blazor, JavaScript, TypeScript
-- Base de Datos: SQL Server, T-SQL
-- Arquitectura: Clean Architecture, CQRS
-- DevOps: Azure DevOps, CI/CD
+Backend: C#, .NET 6–10, ASP.NET MVC, Web API, Entity Framework Core, Dapper, ADO.NET
+Frontend: Angular, Blazor, JavaScript, TypeScript
+Base de Datos: SQL Server, T-SQL
+Arquitectura: Clean Architecture, CQRS, Mediator, Repository Pattern
+DevOps: Experiencia usando Azure DevOps, Git y CI/CD en procesos existentes
 
 ## 🤖 IA
 
