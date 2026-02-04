@@ -13,11 +13,12 @@ Integro herramientas de IA (ChatGPT, Claude, Gemini, Claude Code) para mejorar l
 
 ## 🛠️ Tecnologías
 
-Backend: C#, .NET 6–10, ASP.NET MVC, Web API, Entity Framework Core, Dapper, ADO.NET
-Frontend: Angular, Blazor, JavaScript, TypeScript
-Base de Datos: SQL Server, T-SQL
-Arquitectura: Clean Architecture, CQRS, Mediator, Repository Pattern
-DevOps: Experiencia usando Azure DevOps, Git y CI/CD en procesos existentes
+- **Backend:** C#, .NET 6–10, ASP.NET MVC, Web API, Entity Framework Core, Dapper, ADO.NET
+- **Frontend:** Angular, Blazor, JavaScript, TypeScript
+- **Base de Datos:** SQL Server, T-SQL
+- **Arquitectura:** Clean Architecture, CQRS, Mediator, Repository Pattern
+- **DevOps:** Experiencia usando Azure DevOps, Git y CI/CD en procesos existentes
+
 
 ## 🤖 IA
 
